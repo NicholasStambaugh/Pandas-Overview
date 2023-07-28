@@ -1,3 +1,11 @@
+       ____   _    _   _ ____    _    ____  
+      |  _ \ / \  | \ | |  _ \  / \  / ___|
+      | |_) / _ \ |  \| | | | |/ _ \ \___ \
+      |  __/ ___ \| |\  | |_| / ___ \ ___) |
+      |_| /_/   \_\_| \_|____/_/   \_\____/
+
+[![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
+
 # Pandas Library Guide
 
 This repository is dedicated to the pandas library in Python. It provides in-depth guides, tutorials, links, and resources to help you learn and use pandas effectively.
